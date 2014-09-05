@@ -4,7 +4,7 @@ TeachersPet(working title) is a tool to be used in classrooms (likely for grades
 
 The features that can be utilized in this program will be created in multiple iterations.
 
-Iteration 1:
+Iteration 1:  
  • Create student roster
  • Create team creation feature 
  • Create random student selection feature
